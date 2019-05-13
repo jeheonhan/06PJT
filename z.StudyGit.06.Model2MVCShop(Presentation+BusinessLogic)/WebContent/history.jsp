@@ -13,6 +13,7 @@
 <br>
 <br>
 <%
+	System.out.println("1");
 	request.setCharacterEncoding("euc-kr");
 	response.setCharacterEncoding("euc-kr");
 	String history = null;
